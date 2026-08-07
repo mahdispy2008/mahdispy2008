@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Mahdis! 👋
 
-<!--
-**mahdispy2008/mahdispy2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀  Python Enthusiast
 
-Here are some ideas to get you started:
+I am a dedicated student transitioning into the world of Computer Science and Software Engineering. Currently, I am focusing on mastering **Python** and building a solid foundation in programming logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Interests
+- **Programming Languages:** 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- **Current Focus:** Data Structures, Logic Building, and Software Development Fundamentals.
+- **Interests:** Artificial Intelligence, Automation, and Problem Solving.
+
+---
+
+### 📊 My GitHub Stats
+![Mahdis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdispy2008&show_icons=true&theme=radical)
+
+---
+
+### 📫 How to reach me
+- **Learning Journey:** I am documenting my progress through code repositories.
+- **Goal:** To contribute to meaningful open-source projects and build impactful software.
+
+*"Consistency is the key to mastery."* 💻✨
