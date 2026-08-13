@@ -1,31 +1,26 @@
 # Hi there, I'm Mahdis! 👋
 
-### 🐍 Python Learner | 💻 Aspiring Software Developer
+### 🐍 Python Learner
 
 I'm currently learning Python and building my programming skills step by step.
 
-I'm interested in programming, problem solving, and learning how to build useful software.
+I'm interested in problem solving, software development, and learning how to build useful software.
 
 ---
 
-## 🛠️ Skills & Learning
+## 🛠️ Skills & Interests
 
 - 🐍 Python
 - 🧠 Programming Fundamentals
-- 📦 Python Modules & Packages
 - 🌱 Git & GitHub
-
-## 📚 Currently Learning
-
-- Object-Oriented Programming
-- Data Structures
-- Python Projects
-- Git & GitHub
-
-## 🎯 My Goal
-
-My goal is to build a strong foundation in programming, improve my problem-solving skills, and become a skilled software developer.
+- 🤖 Artificial Intelligence
+- ⚙️ Automation
+- 🧩 Problem Solving
 
 ---
 
-### 🌱 Always Learning, Always Improving.
+## 🎯 My Goal
+
+I'm focused on building a strong foundation in programming, improving my problem-solving skills, and growing as a software developer.
+
+### 🌱 Always learning, always improving.
