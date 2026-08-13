@@ -1,26 +1,31 @@
 # Hi there, I'm Mahdis! 👋
 
-### 🚀  Python Enthusiast
+### 🐍 Python Learner | 💻 Aspiring Software Developer
 
-I am a dedicated student transitioning into the world of Computer Science and Software Engineering. Currently, I am focusing on mastering **Python** and building a solid foundation in programming logic.
+I'm currently learning Python and building my programming skills step by step.
 
----
-
-### 🛠️ Tech Stack & Interests
-- **Programming Languages:** 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- **Current Focus:** Data Structures, Logic Building, and Software Development Fundamentals.
-- **Interests:** Artificial Intelligence, Automation, and Problem Solving.
+I'm interested in programming, problem solving, and learning how to build useful software.
 
 ---
 
-### 📊 My GitHub Stats
-![Mahdis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdispy2008&show_icons=true&theme=radical)
+## 🛠️ Skills & Learning
+
+- 🐍 Python
+- 🧠 Programming Fundamentals
+- 📦 Python Modules & Packages
+- 🌱 Git & GitHub
+
+## 📚 Currently Learning
+
+- Object-Oriented Programming
+- Data Structures
+- Python Projects
+- Git & GitHub
+
+## 🎯 My Goal
+
+My goal is to build a strong foundation in programming, improve my problem-solving skills, and become a skilled software developer.
 
 ---
 
-### 📫 How to reach me
-- **Learning Journey:** I am documenting my progress through code repositories.
-- **Goal:** To contribute to meaningful open-source projects and build impactful software.
-
-*"Consistency is the key to mastery."* 💻✨
+### 🌱 Always Learning, Always Improving.
